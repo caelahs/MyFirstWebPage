@@ -1,14 +1,23 @@
 # MyFirstWebPage
+<h1>How to use Git/Github/Webstorm</h2>
+What is Github? An open source version control system; sign up here https://git-scm.com/downloads;
 
-Task: Create Repository
+To create a repository on Github, Click the + sign in the upper right corner 
+• Choose “Create New repository”
+<br></br>
+Install Git https://git-scm.com/downloads;
+the command line version of Github, available for 
+Windows, Mac, Linux, and browser based Github.
+Click Create New Project on the Welcome screen or select File | New | Project from the main menu. The Create New Project Dialog opens.
+In the left-hand pane, choose Empty Project. In the right-hand pane, specify the application folder and click Create.
+<br></br>
+Install Webstorm https://www.jetbrains.com/student/;
+To connect Webstorm and Github, in Webstorm, press (Ctrl+Alt+S) for system preferences. 
+• Select Version control Git. Enter the path to the git.exe
+You add your password by...<br></br>In Webstorm press (Ctrl+Alt+S) for system preferences
+• Select Appearance and Behavior | System Settings | Passwords
 
-Feature: added workflow for using github
-
-Fix: changed readme.md for definition of terms
-
-
-
-<h1>Glossary</h1>
+<h2>Glossary</h2>
 <body>
   <p>
     <b>Branch</b> 
